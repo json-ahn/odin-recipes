@@ -1,0 +1,1 @@
+# This small assignment will guide me through the entire HTML/CSS journey
